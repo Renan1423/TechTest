@@ -1,21 +1,8 @@
 # TechTest
 Game programming technical test from the Educação Digital Games company. By Renan Nunes 
 
-
 Technical Game Documentation: Educação Digital Games
 Author: Renan Nunes
-Date: March 20, 2026
-
-Summary
-Defining the problem's solution
-Puzzle architecture
-Puzzle shuffling algorithm
-Images generation
-Victory and Defeat
-Score and Time Manager
-Art direction and visual feedbacks
-Mobile adaptation
-Polishments
 
 1. Defining the problem's solution
 	The technical test is a practical way to show the applicant’s programming skills with C#, code architecture and handling the Unity game engine. With that in mind, in this exercise I’ve focused on displaying highly polished codes and good practices, thinking this exercise as a game that could be developed inside the company with other team members, while also creating flashy, yet simple, art directions with animations and a good UI/UX experience.
