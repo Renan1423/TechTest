@@ -1,6 +1,8 @@
 # TechTest
 Game programming technical test from the Educação Digital Games company. By Renan Nunes 
 
+Itch IO game page: https://rerezin-das-galaxias.itch.io/technical-test-educao-digital-games
+
 Technical Game Documentation: Educação Digital Games
 Author: Renan Nunes
 
