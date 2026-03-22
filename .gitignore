@@ -73,3 +73,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+TesteEducacaoDigitalGames_RenanNunes/Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/GameAssembly.a
+TesteEducacaoDigitalGames_RenanNunes/Library/Bee/artifacts/WebGL/il2cppOutput/build/GameAssembly.a
+TesteEducacaoDigitalGames_RenanNunes/Library/PackageCache/com.unity.burst@7a907cf5a459/.Runtime/libburst-llvm-18.dylib
+/TesteEducacaoDigitalGames_RenanNunes/Library
